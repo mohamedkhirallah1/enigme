@@ -1,0 +1,4 @@
+compilation:
+gcc Personne.c backg.c collision.c minimap.c enemie.c enigme.c main.c jeu.c fonctions.c -o Game -lSDL -lSDL_image -lSDL_mixer -lSDL_ttf
+exécution:
+./Game
